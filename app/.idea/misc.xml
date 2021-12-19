@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/android02/app/app/src/main/res/drawable-v24/background_color.xml" value="0.17760416666666667" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/drawable-v24/button_circle_shape.xml" value="0.17760416666666667" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/drawable-v24/layout_circle_shape.xml" value="0.26979166666666665" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/layout/activity_forget.xml" value="0.2164855072463768" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/layout/activity_main.xml" value="0.1598731884057971" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/layout/activity_register.xml" value="0.16354166666666667" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/layout/admin_login.xml" value="0.17119565217391305" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/layout/admin_management.xml" value="0.3153153153153153" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/layout/fragment_page__me.xml" value="0.5891181988742964" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/layout/fragment_page_home.xml" value="0.17119565217391305" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/layout/fragment_page_image.xml" value="0.17119565217391305" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/layout/fragment_page_music.xml" value="0.17119565217391305" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/layout/login_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/layout/music_detailed.xml" value="0.17119565217391305" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/layout/music_list_demo.xml" value="0.5874635568513119" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/layout/page_layout.xml" value="0.16354166666666667" />
+        <entry key="..\:/Android/android02/app/app/src/main/res/layout/students_list_layout.xml" value="0.16354166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
